@@ -1,0 +1,63 @@
+capital = 791
+oob = "SZC_1936"
+set_research_slots = 2
+set_technology = {
+	infantry_weapons = 1
+}
+
+set_politics = {
+
+	parties = {
+		reactionaryism = {
+			popularity = 5
+		}
+
+		revolutionary_nationalism = {
+			popularity = 56
+		}
+
+		right_authoritarianism = {
+			popularity = 23
+		}
+
+		vanguard_socialism = {
+			popularity = 0
+		}
+
+		libertarian_socialism = {
+			popularity = 0
+		}
+
+		social_conservatism = {
+			popularity = 7
+		}
+
+		market_liberalism = {
+			popularity = 7
+		}
+
+		social_liberalism = {
+			popularity = 2
+		}
+
+		social_democratism = {
+			popularity = 0
+		}
+	}
+
+	ruling_party = right_authoritarianism
+	last_election = "1936.1.1"
+	election_frequency = 48
+	elections_allowed = no
+}
+
+create_country_leader = {
+	name = "Yang Sen"
+	desc = "POLITICS_LONG_YUN_DESC"
+	picture = "gfx/leaders/Asia/Portrait_Asia_Generic_warlord1.dds"
+	expire = "1965.1.1"
+	ideology = military_dictatorship
+	traits = {
+		#
+	}
+}

@@ -1,0 +1,34 @@
+
+state={
+	id=286
+	name="STATE_286"
+	resources={
+		steel=4
+	}
+
+	history={
+		add_core_of = VIN
+		owner = JAP
+		victory_points = {
+			4401 3
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 2
+			air_base = 2
+			4401 = {
+				naval_base = 4
+
+			}
+
+		}
+
+	}
+
+	provinces={
+		4401 1396 12232
+	}
+	manpower=845000
+	buildings_max_level_factor=1.000
+	state_category=city
+}

@@ -1,0 +1,22 @@
+state={
+	id=715
+	name="STATE_715"
+	manpower = 1851038
+
+	state_category = town
+
+	history={
+		owner = MAN
+		add_core_of = MAN
+		buildings = {
+			infrastructure = 3
+			arms_factory = 1
+			industrial_complex = 1
+		}
+
+	}
+
+	provinces={
+		930 1499 1558 1627 1638 4642 12469 7812 11903 12337 916 
+	}
+}

@@ -1,0 +1,26 @@
+state= {
+	id=602
+	name="STATE_602" # Hunan
+	manpower = 28293700
+	resources={
+		tungsten=8
+		steel=2
+	}
+	state_category = large_town
+	history= {
+		owner = KMT
+		add_core_of = KMT
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 1
+		}
+
+		victory_points = {
+			9999 1
+		}
+
+	}
+	provinces={
+		4480 4896 7279 7502 7665 10006 10335 10377 10517 12017 12053 12310 12483 13140 13143
+	}
+}

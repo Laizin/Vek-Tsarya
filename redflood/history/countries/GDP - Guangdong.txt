@@ -1,0 +1,68 @@
+﻿capital = 776
+
+oob = "GDP_1936"
+
+# Starting tech
+set_technology = {
+	infantry_weapons = 1
+	mass_assault = 1
+}
+
+set_convoys = 5
+
+set_politics = {
+
+	parties = {
+		reactionaryism = {
+			popularity = 5
+		}
+
+		revolutionary_nationalism = {
+			popularity = 0
+		}
+
+		right_authoritarianism = {
+			popularity = 45
+		}
+
+		vanguard_socialism = {
+			popularity = 0
+		}
+
+		libertarian_socialism = {
+			popularity = 0
+		}
+
+		social_conservatism = {
+			popularity = 15
+		}
+
+		market_liberalism = {
+			popularity = 25
+		}
+
+		social_liberalism = {
+			popularity = 10
+		}
+
+		social_democratism = {
+			popularity = 0
+		}
+	}
+
+	ruling_party = right_authoritarianism
+	last_election = "1936.1.1"
+	election_frequency = 48
+	elections_allowed = no
+}
+
+create_country_leader = {
+	name = "Thomas Southorn"
+	desc = "POLITICS_LONG_YUN_DESC"
+	picture = "gfx/leaders/Asia/Portrait_Asia_Generic_warlord1.dds"
+	expire = "1965.1.1"
+	ideology = oligarchy
+	traits = {
+		#
+	}
+}

@@ -1,0 +1,18 @@
+state= {
+	id=595
+	name="STATE_595"
+	manpower = 11752268
+	state_category = town
+	history=
+	{
+		owner = FJN
+		add_core_of = FJN
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+		}
+	}
+	provinces={
+		1006 1094 1138 1166 1193 4053 4070 4113 4169 7027 7099 7131 10012 10042 10054 12057 10010 11986 10093 10069 10084 12084
+		}
+}

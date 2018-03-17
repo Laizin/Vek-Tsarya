@@ -1,0 +1,93 @@
+bookmarks = {
+	bookmark = {
+		name = "GATHERING_STORM_NAME"
+		desc = "GATHERING_STORM_DESC"
+		date = 1936.1.1.12
+		picture = "GFX_select_date_1936"
+		default_country = "GER"
+		default = yes
+
+		"SOV"={
+			history = "RUSSIAN_EMPIRE_DESC"
+			ideology = social_liberalism
+			ideas = {
+				victor_in_the_velikaya_voyna
+				monopolized_industry
+				unstable_political_system
+			}
+			focuses = {
+
+			}	
+		}
+
+		"SWE"={
+			history = "SWEDEN_NORWAY_DESC"
+			ideology = social_democratism_ideology
+		}
+
+		"GER"={
+			history = "DEUTSCHE_RATEREPUBLIK_DESC"
+			ideology = libertarian_socialist
+			ideas = {
+				
+			}
+			focuses = {
+				
+			}
+		}
+		"FRA"={
+			history = "FRENCH_STATE_DESC"
+			ideology = revolutionary_nationalism
+			ideas = {
+			
+			}
+			focuses = {
+				
+			}
+		}
+		"ENG"={
+			history = "UNITED_KINGDOM_DESC"
+			ideology = social_conservatism
+			ideas = {
+			
+			}
+			focuses = {
+				
+			}
+		}
+		"ITA"={
+			history = "KINGDOM_OF_ITALY_DESC"
+			ideology = market_liberal
+			ideas = {
+				
+			}	
+			focuses = {
+				
+			}		
+		}
+		"USA"={
+			history = "UNITED_STATES_DESC"
+			ideology = social_liberalism
+			ideas = {
+				
+			}
+			focuses = {
+				
+			}
+		}
+		"JAP"={
+			history = "JAPANESE_EMPIRE_DESC"
+			ideology = social_conservatism
+			ideas = {
+				
+			}	
+			focuses = {
+			
+			}			
+		}
+
+
+		"---"={
+			history = "OTHER_GATHERING_STORM_DESC"
+		} 
+		

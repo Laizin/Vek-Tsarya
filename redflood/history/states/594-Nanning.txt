@@ -1,0 +1,27 @@
+
+state={
+	id=594
+	name="STATE_594"
+	manpower = 6029995
+	state_category = town
+	resources={
+		steel = 5
+		chromium = 2
+	}
+
+	history={
+		owner = JAP
+		add_core_of = KMT
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+		}
+		victory_points = {
+			7137 5
+		}
+	}
+
+	provinces={
+		1018 4023 4121 4177 7044 7137 7192 10004 10050 10105 11926 11983 12023
+	}
+}

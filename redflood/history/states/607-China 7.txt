@@ -1,0 +1,28 @@
+
+state={
+	id=607
+	name="STATE_607"
+
+	history={
+		owner = BYJ
+		add_core_of = BYJ
+		buildings = {
+		industrial_complex = 2
+		infrastructure = 4
+		air_base = 2
+		arms_factory = 2
+
+		}
+		victory_points = {
+			9958 1
+		}
+
+	}
+
+	provinces={
+		1004 1139 1603 4066 4114 4144 4606 6932 7074 7085 7126 7508 7540 7656 9958 9995 10098 10364 11931 12012
+	}
+	manpower=18030143
+	buildings_max_level_factor=1.000
+	state_category=large_town
+}

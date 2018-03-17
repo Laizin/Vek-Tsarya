@@ -1,0 +1,42 @@
+capital = 330
+
+oob = "MON_1936"
+set_research_slots = 1
+
+# Starting tech
+set_technology = {
+	infantry_weapons = 1
+}
+
+add_ideas = {
+	limited_conscription
+}
+
+set_politics = {
+
+	parties = {
+		reactionaryism = {
+			popularity = 13
+		}
+		right_authoritarianism = {
+			popularity = 87
+		}
+
+	}
+
+	ruling_party = right_authoritarianism
+	last_election = "1936.1.1"
+	election_frequency = 48
+	elections_allowed = no
+}
+
+create_country_leader = {
+	name = "Under Russian Protectorate"
+	desc = "POLITICS_ANANDYN_AMAR_DESC"
+	picture = "gfx/leaders/Asia/Portrait_Asia_Generic_communism.dds"
+	expire = "1965.1.1"
+	ideology = despotism
+	traits = {
+		#
+	}
+}
